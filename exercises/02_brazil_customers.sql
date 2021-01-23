@@ -1,3 +1,3 @@
-SELECT FirstName, LastName, CustomerId, Country
+SELECT *
 FROM Customer
 Where Country = 'Brazil';
